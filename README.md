@@ -1,10 +1,7 @@
-## YES✨
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&text=Eunseo&fontSize=70)
 
-### 
-### 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&text=YES💡&animation=twinkling&fontSize=70)
 
-###  📌Tech Stack
+###  📌Tech Stack 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
