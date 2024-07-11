@@ -1,5 +1,5 @@
 ## YES✨
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&text=Eunseo%20render&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=120&section=header&text=Eunseo&fontSize=70)
 
 ### 
 ### 
