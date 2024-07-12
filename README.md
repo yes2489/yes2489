@@ -31,12 +31,12 @@
 
 ## 📌 Other
 ##### 취미 : 뮤지컬 관람, 맛집 탐방
-##### MBTI
 
 <details>
-<summary> 제 MBTI는요..? </summary>
+<summary><h5> 제 MBTI는요..? </h5></summary>
 <div markdown="1">
 (인데 T가 100인 그런....)
+
 ![mbti](https://github.com/user-attachments/assets/c5c4fac8-b713-4cc7-9f6c-f8fa20992781)
 </div>
 </details>
