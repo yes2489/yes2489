@@ -32,3 +32,10 @@
     - 취미 : 뮤지컬 관람, 맛집 탐방
     - MBTI : ISTP (인데 T가 100인 그런....)
     - 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
+
+<picture>
+    ![a](https://github.com/user-attachments/assets/463944a8-4010-49df-884a-e233ad29f5bf)
+</picture>
+<picture>
+    ![b](https://github.com/user-attachments/assets/cda6231b-14b7-4ea7-9722-290222e1d798)
+</picture>
