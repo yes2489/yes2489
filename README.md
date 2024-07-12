@@ -30,14 +30,16 @@
 
 
 ## 📌 Other
-    - 취미 : 뮤지컬 관람, 맛집 탐방
-    <details>
-    <summary> MBTI : ISTP </summary>
-    <div markdown="1">
+##### 취미 : 뮤지컬 관람, 맛집 탐방
+##### MBTI
 
-    (인데 T가 100인 그런....)
+<details>
+<summary> 제 MBTI는요..? </summary>
+<div markdown="1">
+(인데 T가 100인 그런....)
+![mbti](https://github.com/user-attachments/assets/c5c4fac8-b713-4cc7-9f6c-f8fa20992781)
+</div>
+</details>
 
-    </div>
-    </details>
-    - 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
-    - 
+##### 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
+##### 쉽지않군
