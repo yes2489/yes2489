@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=240&section=header&text=About%20Me🙌&fontAlignY=40&animation=twinkling&fontSize=60)
 
-# 👋 안녕하세요. 양은서입니다!<br>
+# 👋 안녕하세요. 양은서입니다!
 
 ## ✨ Introduction
 모두들 만나게 되어 반갑습니다! <br>
