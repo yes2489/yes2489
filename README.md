@@ -30,16 +30,16 @@
 
 
 ## 📌 Other
-##### 취미 : 뮤지컬 관람, 맛집 탐방
+#### 취미 : 뮤지컬 관람, 맛집 탐방
 
 <details>
-<summary><h5> 제 MBTI는요..? </h5></summary>
+<summary><h4> 제 MBTI는요..? </h4></summary>
 <div markdown="1">
 (인데 T가 100인 그런....)
 
-<img src="https://github.com/user-attachments/assets/c5c4fac8-b713-4cc7-9f6c-f8fa20992781" width="200" hight="300"/>
+<img src="https://github.com/user-attachments/assets/29596687-5c3d-4de6-8a41-8631417a72f6" width="250" hight="300"/>
 </div>
 </details>
 
-##### 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
-##### 쉽지않군
+#### 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
+#### 쉽지않군
