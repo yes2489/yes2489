@@ -35,8 +35,8 @@
 <details>
 <summary><h3> 제 MBTI는요..? </h3></summary>
 <div markdown="1">
-(인데 T가 100인 그런....)<br>
-<img src="https://github.com/user-attachments/assets/29596687-5c3d-4de6-8a41-8631417a72f6" width="400" hight="500"/>
+<img src="https://github.com/user-attachments/assets/29596687-5c3d-4de6-8a41-8631417a72f6" width="400" hight="500"/><br><br>
+(인데 T가 100인 그런....)
 </div>
 </details>
 
