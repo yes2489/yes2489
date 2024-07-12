@@ -26,8 +26,14 @@
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
 
 ## 📌 Other
     - 취미 : 뮤지컬 관람, 맛집 탐방
-    - MBTI : ISTP (인데 T가 100인 그런....)
+    <details>
+        <summary> MBTI : ISTP </summary>
+        (인데 T가 100인 그런....)
+    </details> 
     - 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
+    - 
