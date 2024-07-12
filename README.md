@@ -37,7 +37,7 @@
 <div markdown="1">
 (인데 T가 100인 그런....)
 
-![mbti](https://github.com/user-attachments/assets/c5c4fac8-b713-4cc7-9f6c-f8fa20992781)
+<img src="https://github.com/user-attachments/assets/c5c4fac8-b713-4cc7-9f6c-f8fa20992781" width="200" hight="300"/>
 </div>
 </details>
 
