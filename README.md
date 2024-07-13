@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=240&section=header&text=About%20Me🙌&fontAlignY=40&animation=twinkling&fontSize=60)
 
-# 👋 안녕하세요. 양은서입니다!
+# 👋 안녕하세요. 양은서입니다! 
 
 ## ✨ Introduction
 모두들 만나게 되어 반갑습니다! <br>
@@ -9,7 +9,7 @@
 너무 적극적인 동료들을 만나게 되어 행복해요💘
 
 ## 🎓 Education
-    - (14.03 ~ 19.02) 아동학과 학사
+    - (~ 19.02) 아동학과 학사
     - (22.03 ~ 22.09) 정보보안실무 교육과정 수료 
     - (24.05 ~ 24.06) K-Shield Junior 수료 
     - (24.07 ~) 삼성 청년 SW 아카데미 (SSAFY) 
