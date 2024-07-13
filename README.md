@@ -35,12 +35,12 @@
 <details>
 <summary><h3> 제 MBTI는요..? </h3></summary>
 <div markdown="1">
-<h2> - ISTP 입니다 </h2>
+<h2> ✅ ISTP 입니다 </h2>
 <img src="https://github.com/user-attachments/assets/29596687-5c3d-4de6-8a41-8631417a72f6" width="400" hight="500"/><br><br>
 (인데 T가 100인 그런....)
 </div>
 </details>
 
-### 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
 ### 장점 : 🔍관찰력이 좋음 | 은근 편견 없음
-### 단점 : 빠른 체력 소진
+### 단점 : 빠른 체력 소진 
+### 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
