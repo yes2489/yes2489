@@ -9,14 +9,14 @@
 너무 적극적인 동료들을 만나게 되어 행복해요💘
 
 ## 🎓 Education
-    - (2019.02) 아동학과 학사
-    - (2022.09) 정보보안실무 교육과정 수료 
-    - (2024.06) K-Shield Junior 수료 
-    - (2024.07 ~) 삼성 청년 SW 아카데미 (SSAFY) 
+    - (14.03 ~ 19.02) 아동학과 학사
+    - (22.03 ~ 22.09) 정보보안실무 교육과정 수료 
+    - (24.05 ~ 24.06) K-Shield Junior 수료 
+    - (24.07 ~) 삼성 청년 SW 아카데미 (SSAFY) 
 
 ## 💼 Experience
-    - (2019.03 ~ 2022.02) 푸르니보육지원재단 직영 어린이집 - 보육교사 
-    - (2022.09 ~ 2024.02) IT 통합운영관리 솔루션 기업 - 시스템 엔지니어
+    - (19.03 ~ 22.02) 푸르니보육지원재단 직영 어린이집 - 보육교사 
+    - (22.09 ~ 24.02) IT 통합운영관리 솔루션 기업 - 시스템 엔지니어
 
 ## 🛠️ Tech Stack 
 <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> 
@@ -30,15 +30,17 @@
 
 
 ## 📌 Other
-### 취미 : 뮤지컬 관람, 맛집 탐방
+### 취미 : 뮤지컬 관람 | 맛집 탐방
 
 <details>
 <summary><h3> 제 MBTI는요..? </h3></summary>
 <div markdown="1">
+<h2> ISTP </h2>
 <img src="https://github.com/user-attachments/assets/29596687-5c3d-4de6-8a41-8631417a72f6" width="400" hight="500"/><br><br>
 (인데 T가 100인 그런....)
 </div>
 </details>
 
 ### 다짐 : 대충 넘어가기 금지❌ 모르는 것이 있으면 꼭! 짚고 넘어가기
-### 
+### 장점 : 🔍관찰력이 좋음 | 은근 편견 없음
+### 단점 : 빠른 체력 소진
