@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<br>
+
 
 ## 📌 Other
 ### 취미 : 뮤지컬 관람 | 맛집 탐방
