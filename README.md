@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
