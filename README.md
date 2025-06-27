@@ -4,14 +4,13 @@
 # 👋 안녕하세요. 양은서입니다! 
 
 ## ✨ Introduction
-만나게 되어 반갑습니다! <br>
-이번 SSAFY 교육을 통해 기초부터 탄탄히 쌓아 체계적인 프로그래머가 되는 것이 저의 목표입니다.
+사람과 기술을 연결하고자 하는 백엔드 개발자, 양은서 입니다.
 
 ## 🎓 Education
     - (~ 19.02) 아동학과 학사
     - (22.03 ~ 22.09) 정보보안실무 교육과정 수료 
     - (24.05 ~ 24.06) K-Shield Junior 수료 
-    - (24.07 ~) 삼성 청년 SW 아카데미 (SSAFY) 
+    - (24.07 ~ 25.06) 삼성 청년 SW·AI 아카데미 (SSAFY) 수료
 
 ## 💼 Experience
     - (19.03 ~ 22.02) 푸르니보육지원재단 직영 어린이집 - 보육교사 
@@ -22,7 +21,7 @@
 
 <img src="https://img.shields.io/badge/mariadb-%23003545.svg?&style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"> <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white">
 
-<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 
 
 ## 📌 Other
